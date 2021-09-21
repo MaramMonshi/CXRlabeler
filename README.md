@@ -13,7 +13,7 @@ CXRlabeler is a deep learning labeler that takes raw radiology text as input and
 
 
 ### Citation:
-Monshi, M.M.A., Poon, J., Chung, V. and Monshi, F.M., 2021. Labeling Chest X-Ray Reports Using Deep Learning. In International Conference on Artificial Neural Networks, 12893, p.684-694. [[Paper]](https://doi.org/10.1007/978-3-030-86365-4_55) 
+Monshi, M.M.A., Poon, J., Chung, V. and Monshi, F.M., 2021. Labeling Chest X-Ray Reports Using Deep Learning. In International Conference on Artificial Neural Networks, pp. 684–694. [[Paper]](https://doi.org/10.1007/978-3-030-86365-4_55) 
 
 ### Contact: 
 Maram Monshi at mmon4544@uni.sydney.edu.au or m.monshi@tu.edu.sa 
